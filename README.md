@@ -1,5 +1,6 @@
 # ID1020 Algorithms and Datastructures
 Laboratory assignments from the Algorithms and Datastructures course at KTH Royal Institute of Technology.
+The codes are based on "Algorithms" 4th edition, by Robert Sedgewick and Kevin Wayne.
 
 ---
 
